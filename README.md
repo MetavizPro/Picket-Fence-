@@ -28,11 +28,17 @@ x
 ## About the Project
 Built on the **Brilliant Directory** platform, Picket Fence NJ simplifies the real estate process, empowering users with the tools they need for a successful transaction. Whether you're looking to buy, sell, or rent properties in New Jersey, Picket Fence NJ provides a comprehensive, reliable, and easy-to-use resource.
 
-## 👨‍💻 About Me
+## 👨‍💻 About the Developer
 
-Hello! I’m **Bilal Jamil**, an experienced **Brilliant Directory developer** with a passion for creating dynamic, user-friendly directory websites. The **Women Professionals Network** project highlights my expertise in building robust features that support membership growth, business expansion, and personal development.
+At Metaviz, we have a team of experienced **Brilliant Directories developers**.We specialize in creating tailored directory solutions that empower pet owners to connect with trusted pet services through user-friendly, SEO-optimized platforms. The Poodle Hut project showcases my ability to build feature-rich directories that deliver real value to both users and service providers.
 
-Are you looking to build or enhance your own **Brilliant Directory** platform? Let’s create something impactful together.
+If you're seeking a **Brilliant Directories** expert to develop or enhance your directory platform, let’s collaborate and create a powerful tool for your business.
+
+
+## 📬 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sajid-jameel-721256178/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail)](mailto:sajidjamil.met@gmail.com)
 
 ## 📬 Contact Me
 
